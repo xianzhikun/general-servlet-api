@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<api name="login" class="proj.user_act.LoginApi"/>
+	<api name="signup" class="proj.user_act.SignUpApi"/>
+	<api name="queryimfor" class="proj.user_act.QueryImforApi"/>
+	<api name="verifycode" class="proj.user_act.VerifyCodeApi"/>
+	<api name="urldecode" class="proj.tool.UrlDecodeApi"/>
+</config>
